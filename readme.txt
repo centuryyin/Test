@@ -3,3 +3,4 @@ GIt is free software.
 wu de you licke
 add one line
 add two line
+del a modify
